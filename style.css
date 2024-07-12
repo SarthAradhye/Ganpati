@@ -1,0 +1,22 @@
+body{
+    background-image: url(/R.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Poppins, sans-serif;
+}
+.content{
+    color: #fff;
+    background: transparent;
+    backdrop-filter: blur(20px);
+    margin: 10%;
+    border-radius: 50px;
+}
+.content h2{
+    padding: 2%;
+}
+.content h2 button{
+    border-radius: 15px;
+    padding: 1%;
+    font-weight: bold;
+    background-color: rgb(43, 117, 255);
+}
